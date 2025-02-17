@@ -50,7 +50,7 @@ function setup() {
 
      myField.displayField()
 
-     maxIterations = 100000
+     maxIterations = 10000
      //functions in "RacerProduction.js"
      for (let iterations = 0; iterations < maxIterations; iterations++) {
         sortRacers(myRacers)
