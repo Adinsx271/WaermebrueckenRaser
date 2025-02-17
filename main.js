@@ -46,7 +46,7 @@ function setup() {
 
      //Initial Racer Produktion
      myRacers = []
-     startFromStartCell(myField.fieldArray[0][50], 64)
+     startFromStartCell(myField.fieldArray[0][0], 64)
 
      myField.displayField()
 
