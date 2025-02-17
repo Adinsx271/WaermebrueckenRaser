@@ -1,0 +1,10 @@
+2D Zelluläres Netz mit breiten, Materialien und Wärmeleitfähigkeit
+
+Agenten / Racer
+	fahren über das Netz anfangs zufällig
+	Belohnungsfunktion 
+		dafür wie nah sie dem Ziel kommen (quadratisch)
+		wie schnell sie am Ziel ankommen
+			über wärmeleitfähige Stoffe fahren sie schneller als über wärmedämmung
+
+	mit evolutionärem Algorithmus werden neue Racer ausgesucht / erzeugt
